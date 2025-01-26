@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>A passionate Full stack web developer
+<br>I am a passionate Full Stack Web Developer currently pursuing my Master of Computer Applications (MCA). I recently completed an internship at Pinnacle Labs Pvt Ltd, where I honed my skills in designing and developing user-friendly, responsive, and dynamic web applications.
 
 
 ## 🌐 Socials:
